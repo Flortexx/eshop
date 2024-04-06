@@ -243,3 +243,12 @@ footer{
         margin: 4px;
     }
 }
+.btn{
+    display: flex;
+    padding: 12px 24px;
+    background-color: orange;
+    color: #000000;
+    border: none;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
